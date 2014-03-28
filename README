@@ -1,1 +1,10 @@
-Hello quick-poll!
+Quick Poll
+
+The idea: Enable easy and unobtrusive flash polls of anyone who has a client installed.
+
+Basic design idea:
+- a server application that communicates with clients to push polls and receive responses
+- a lightweight website to display results of polls
+- a windows tray icon client to notify of new polls and allow user to respond
+- phone clients that notify of new polls and allow user to respond
+-- windows phone, android, ios
